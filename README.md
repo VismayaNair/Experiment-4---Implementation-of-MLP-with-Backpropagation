@@ -168,14 +168,15 @@ print(classification_report(Y_test,predictions))
 ~~~
 
 ## OUTPUT 
-![output](1.png)
-![output](2.png)
-![output](3.png)
-![output](4.png)
-![output](5.png)
-![output](6.png)
-![output](7.png)
-![output](8.png)
+![1](https://user-images.githubusercontent.com/93427210/235352509-393d87cd-3686-49a1-bd28-027f065a1600.png)
+![2](https://user-images.githubusercontent.com/93427210/235352513-562b51b1-23f9-4ab6-aade-a18e0515a47f.png)
+![3](https://user-images.githubusercontent.com/93427210/235352517-2e7bb602-5112-4d23-b99f-1cb7801b39b9.png)
+![4](https://user-images.githubusercontent.com/93427210/235352521-1add95a7-88ce-457b-90ff-a38f68ac9f63.png)
+![5](https://user-images.githubusercontent.com/93427210/235352526-bde88cde-4870-4f41-b007-f12153dd7e09.png)
+![6](https://user-images.githubusercontent.com/93427210/235352530-193365ec-31d4-4fdf-8db3-df7df77d6028.png)
+![7](https://user-images.githubusercontent.com/93427210/235352534-4e092002-601c-4c7e-989f-cfe331cbfbe6.png)
+![8](https://user-images.githubusercontent.com/93427210/235352542-2fecd037-babc-4b74-8b1f-5282b267882e.png)
+
 
 ## RESULT
  Thus a Multilayer perceptron for classification is implemented successfully .
